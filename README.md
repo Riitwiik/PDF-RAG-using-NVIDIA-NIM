@@ -30,7 +30,7 @@ Screenshot
 ### 🔹 Upload & Embedding
 ![Upload Screenshot](https://raw.githubusercontent.com/Riitwiik/PDF-RAG-using-NVIDIA-NIM/main/output1.png)
 
-### 🔹 Asking Questions
+### 🔹 Answer
 ![Query Screenshot](https://raw.githubusercontent.com/Riitwiik/PDF-RAG-using-NVIDIA-NIM/main/output2.png)
 
 ### 🔹 Retrieved Context View
